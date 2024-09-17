@@ -30,7 +30,7 @@ h2 {
   height: 100%;
   padding: 0% 17% 10% 17%;
   background-image: url("./spotlistbackground.jpg");
-  background-size: 111%;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   font-family: "Work Sans", sans-serif;
