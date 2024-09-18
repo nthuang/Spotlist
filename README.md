@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Spotlist
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Spotify Playlist Manager is a React web application that allows users to search for songs using the Spotify Web API and create custom playlists. Users can add or remove tracks from the search results, name their playlist, and save it directly to their Spotify account.
 
-In the project directory, you can run:
+This app leverages Spotify’s OAuth authentication to securely interact with users' Spotify accounts, making playlist creation seamless.
 
 ### `npm start`
 
