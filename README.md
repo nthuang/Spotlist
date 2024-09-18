@@ -13,6 +13,10 @@ This app leverages Spotify’s OAuth authentication to securely interact with us
 * Save Playlists: Save your playlist directly to your Spotify account.
 * OAuth Authentication: Authenticate with your Spotify account using OAuth for secure access.
 
+## Live Demo
+
+You can check out the live version of this project [here](nthuang.github.io/Spotlist).
+
 
 
 
