@@ -15,7 +15,7 @@ This app leverages Spotify’s OAuth authentication to securely interact with us
 
 ## Live Demo
 
-You can check out the live version of this project [here](nthuang.github.io/Spotlist).
+You can check out the live version of this project [here](https://nthuang.github.io/Spotlist).
 
 
 
