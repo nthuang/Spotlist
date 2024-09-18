@@ -8,10 +8,10 @@ This app leverages Spotify’s OAuth authentication to securely interact with us
 
 ## Features
 
-*Search for Songs: Type a song name, artist, or album to search Spotify's extensive music database.
-*Create Playlists: Add tracks to a playlist and customize the playlist name.
-*Save Playlists: Save your playlist directly to your Spotify account.
-*OAuth Authentication: Authenticate with your Spotify account using OAuth for secure access.
+* Search for Songs: Type a song name, artist, or album to search Spotify's extensive music database.
+* Create Playlists: Add tracks to a playlist and customize the playlist name.
+* Save Playlists: Save your playlist directly to your Spotify account.
+* OAuth Authentication: Authenticate with your Spotify account using OAuth for secure access.
 
 
 
